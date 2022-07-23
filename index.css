@@ -1,0 +1,59 @@
+@media (max-width: 520px){
+body{
+		background-color: lightpink;
+		position: relative;
+	}
+.h{
+	display: inline-block;
+	font-family: 'Pacifico', cursive;
+	color: white;
+	position: absolute;
+	top: 175px;
+	left: 16%;
+	font-size: 30px;
+}
+.pixel{
+	position: relative;
+	top: 333px;
+	left: 33px;
+}
+.img1{
+		width: 100%;
+		position: absolute;
+		top: -10px;
+	}
+.img-bg{
+	background: white;
+	width: 100%;
+	height: 200px;
+	border-radius: 10px;
+	position: relative;
+	top: 305px;
+}
+.img2{
+	width: 200px;
+	position: absolute;
+	bottom: 1px;
+	right: 1px;
+}
+.tq{
+	font-family: 'Pacifico', cursive;
+	color: #741132;
+	position: absolute;
+	top: 51px;
+	left: 0;
+	width: 165px;
+}
+.a2{
+	text-decoration: none;
+	color: black;
+	position: absolute;
+	top: 615px;
+	left: 112px;
+	font-size: 40px;
+	font-family: 'Roboto Slab', serif;
+}
+.a2:hover{
+	color: white;
+}
+}
